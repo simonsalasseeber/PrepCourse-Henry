@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio de prueba del módulo 2 de Henry
+Este es un proyecto prueba para crear un repo en github y clonarlo al repo local
